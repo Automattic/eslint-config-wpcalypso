@@ -25,6 +25,7 @@ module.exports = {
 		eqeqeq: [ 2, 'allow-null' ],
 		'eol-last': 2,
 		indent: [ 2, 'tab', { SwitchCase: 1 } ],
+		'jsx-no-target-blank': 2,
 		'jsx-quotes': [ 2, 'prefer-double' ],
 		'key-spacing': 2,
 		'keyword-spacing': 2,
