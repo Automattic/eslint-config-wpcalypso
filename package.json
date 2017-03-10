@@ -14,8 +14,9 @@
     }
   ],
   "files": [
-  	"index.js",
-  	"react/index.js"
+    "index.js",
+    "react/index.js",
+    "a11y/index.js"
   ],
   "license": "GPL-2.0+",
   "repository": {
@@ -24,6 +25,7 @@
   },
   "peerDependencies": {
     "eslint": "^3.3.1",
-    "eslint-plugin-wpcalypso": "^3.0.1"
+    "eslint-plugin-wpcalypso": "^3.0.1",
+    "eslint-plugin-jsx-a11y": "^4.0.0"
   }
 }
