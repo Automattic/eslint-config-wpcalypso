@@ -16,7 +16,7 @@
   "files": [
     "index.js",
     "react/index.js",
-    "a11y/index.js"
+    "react-a11y/index.js"
   ],
   "license": "GPL-2.0+",
   "repository": {

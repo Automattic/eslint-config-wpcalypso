@@ -29,13 +29,10 @@ Or, if your project uses React and you want to opt in to additional React-specif
 "extends": "wpcalypso/react"
 ```
 
-You can also add in some accessibility rules, for example using both the React superset and the set of jsx-a11y rules:
+Another set of rules available is the `react-a11y` set, which contains the base rules, the react rules, and a set of accessibility checks. To use these:
 
 ```
-"extends": [
-	"wpcalypso/react",
-	"wpcalypso/a11y"
-]
+"extends": "wpcalypso/react-a11y"
 ```
 
 For these accessibility rules, you will need to also install [the jsx-a11y plugin](https://github.com/evcohen/eslint-plugin-jsx-a11y):

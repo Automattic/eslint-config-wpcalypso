@@ -1,4 +1,5 @@
 module.exports = {
+	'extends': '../react/index.js',
 	plugins: [
 		'jsx-a11y'
 	],
