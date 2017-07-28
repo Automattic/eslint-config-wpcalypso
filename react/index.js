@@ -13,6 +13,7 @@ module.exports = {
 	],
 	rules: {
 		'react/jsx-curly-spacing': [ 2, 'always' ],
+		'react/jsx-indent': [ 'error', 'tab' ],
 		'react/jsx-no-bind': 2,
 		'react/jsx-no-duplicate-props': 2,
 		'react/jsx-no-target-blank': 2,
