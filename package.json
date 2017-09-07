@@ -24,7 +24,7 @@
     "url": "https://github.com/Automattic/eslint-config-wpcalypso.git"
   },
   "peerDependencies": {
-    "eslint": "^4.6.1",
-    "eslint-plugin-wpcalypso": "^4.0.0"
+    "eslint": "4.6.1",
+    "eslint-plugin-wpcalypso": "Automattic/eslint-plugin-wpcalypso#try/compact-linting-tools"
   }
 }
