@@ -1,6 +1,6 @@
 #### v2.0.0 (2018-01-19)
 
-- Breaking: Removed the `react-a11y` ruleset. Consumers can just use upstream's `plugin:jsx-a11y/recommended` ruleset instead.
+- Breaking: Removed the `react-a11y` ruleset. Consumers can use upstream's `plugin:jsx-a11y/recommended` ruleset instead.
 
 #### v1.2.0 (2017-11-03)
 
