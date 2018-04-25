@@ -13,11 +13,12 @@ module.exports = {
 	],
 	rules: {
 		'react/jsx-curly-spacing': [ 2, 'always' ],
-		'react/jsx-no-bind': 2,
 		'react/jsx-no-duplicate-props': 2,
 		'react/jsx-no-target-blank': 2,
 		'react/jsx-no-undef': 2,
-		'react/jsx-space-before-closing': 2,
+		'react/jsx-tag-spacing': [ 'error', {
+			'beforeSelfClosing': 'always'
+		} ],
 		'react/jsx-uses-react': 2,
 		'react/jsx-uses-vars': 2,
 		'react/no-danger': 2,
